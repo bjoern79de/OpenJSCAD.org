@@ -32,8 +32,8 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@jscad/core": "^0.4.0",
-    "@jscad/csg": "0.7.0",
+    "@jscad/core": "file:../core",
+    "@jscad/csg": "git://github.com/bjoern79de/csg.js.git#428e629aff1aa2f988f048c79e6fb437f89f5ef2",
     "@jscad/examples": "^1.7.2",
     "@jscad/io": "0.4.7",
     "@jscad/openscad-openjscad-translator": "0.0.11"
